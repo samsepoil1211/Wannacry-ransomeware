@@ -1,4 +1,4 @@
-# GO Ransomware (YouTube)
+# GO Ransomware
 
 Set up 'home' target directory:
 ```
