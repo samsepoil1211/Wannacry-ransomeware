@@ -1,4 +1,4 @@
-# GO Ransomware
+# WANNACRY Ransomware
 
 Set up 'home' target directory:
 ```
