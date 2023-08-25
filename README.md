@@ -1,5 +1,8 @@
 # WANNACRY Ransomware
 
+change the message in the decryption file to your desired amount and requirements
+```
+
 Set up 'home' target directory:
 ```
 ./setup-env.sh
