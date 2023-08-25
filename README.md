@@ -5,6 +5,7 @@ change the message in the decryption file to your desired amount and requirement
 
 Set up 'home' target directory:
 ```
+```
 ./setup-env.sh
 ```
 
